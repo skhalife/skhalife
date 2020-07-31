@@ -8,9 +8,16 @@ Here are some ideas to get you started:
 
 - 🌏  🌎  🌏  🌏  🌎  🌏
 
-![cy](img/cy.png) ![lb](img/lb.png) ![sf](img/sf.png)
+![cy](https://github.com/skhalife/skhalife/blob/master/img/cy.png)
 
-- 🌱 In quarantine, I learned to:
+![lb](https://github.com/skhalife/skhalife/blob/master/img/lb.png)
 
-![bread](img/bread.jpg)
-![ceviche](img/ceviche.jpg)
+![sf](https://github.com/skhalife/skhalife/blob/master/img/sf.png)
+
+- 🌱 In quarantine:
+
+![bread](https://github.com/skhalife/skhalife/blob/master/img/bread.jpg)
+
+![ceviche](https://github.com/skhalife/skhalife/blob/master/img/ceviche.jpg)
+
+![kubecon](https://github.com/skhalife/skhalife/blob/master/img/kubecon.png)
