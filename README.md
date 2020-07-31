@@ -9,4 +9,4 @@
 
 ## 🌱 In quarantine:
 
-![ceviche](https://github.com/skhalife/skhalife/blob/master/img/ceviche.jpg)![bread](https://github.com/skhalife/skhalife/blob/master/img/bread.jpg)![kubecon](https://github.com/skhalife/skhalife/blob/master/img/kubecon.png)
+![ceviche](https://github.com/skhalife/skhalife/blob/master/img/ceviche.jpg)![bread](https://github.com/skhalife/skhalife/blob/master/img/bread.jpg)![kubecon](https://github.com/skhalife/skhalife/blob/master/img/kubecon.png?height="250")
