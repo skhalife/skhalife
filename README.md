@@ -1,8 +1,4 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
+### Hi there 👋 @skhalife here 🙌
 
 - 🔭 I’m currently working @ GitHub ❤️
 
