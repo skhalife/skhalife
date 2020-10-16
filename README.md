@@ -3,10 +3,12 @@
 ![sup](https://media.giphy.com/media/ypqHf6pQ5kQEg/giphy.gif)![sup](https://media.giphy.com/media/ypqHf6pQ5kQEg/giphy.gif)![sup](https://media.giphy.com/media/ypqHf6pQ5kQEg/giphy.gif)
 
 
-## 🌏  🌎  🌏 ❤️ 🌏  🌎  🌏
+## 🌏 :heart: 🛫 
 
 ![sf](https://github.com/skhalife/skhalife/blob/master/img/sf.png)![cy](https://github.com/skhalife/skhalife/blob/master/img/cy.png)![lb](https://github.com/skhalife/skhalife/blob/master/img/lb.png) 
 
-## 🌱 In quarantine:
+## 🌱 If I were a tour guide..:
 
-![ceviche](https://github.com/skhalife/skhalife/blob/master/img/ceviche.jpg)![bread](https://github.com/skhalife/skhalife/blob/master/img/bread.jpg)![kubecon](https://github.com/skhalife/skhalife/blob/master/img/kubecon.png?height="250")
+![route1](https://github.com/skhalife/skhalife/blob/master/img/route1.png)!  
+![ggb](https://github.com/skhalife/skhalife/blob/master/img/goldengate.png). 
+![yosemite](https://github.com/skhalife/skhalife/blob/master/img/yosemite.png)
