@@ -10,6 +10,5 @@
 ## 🌱 If I were a tour guide..:
 
 ![route1](https://github.com/skhalife/skhalife/blob/master/img/route1.png)!  
-![bakers](https://github.com/skhalife/skhalife/blob/master/img/bakersbeach.png)
 ![ggb](https://github.com/skhalife/skhalife/blob/master/img/goldengate.png). 
 ![yosemite](https://github.com/skhalife/skhalife/blob/master/img/yosemite.png)
