@@ -6,7 +6,7 @@
 
 🌱 If I were a tour guide..:
 
-Newer photos coming soon 📷
+Newer photos coming ... 📷
 <!-- 
 ![route1](https://github.com/skhalife/skhalife/blob/master/img/route1.png)  
 ![yosemite](https://github.com/skhalife/skhalife/blob/master/img/yosemite.png)
